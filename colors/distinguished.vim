@@ -51,10 +51,10 @@ hi MoreMsg                 ctermfg=214   ctermbg=NONE cterm=bold guifg=#ffaf00 g
 hi WarningMsg              ctermfg=202   ctermbg=NONE cterm=bold guifg=#ff5f00 guibg=NONE    gui=bold
 hi ErrorMsg                ctermfg=196   ctermbg=NONE cterm=bold guifg=#ff0000 guibg=NONE    gui=bold
 
-hi Comment                 ctermfg=243   ctermbg=233  cterm=NONE guifg=#767676 guibg=#121212 gui=NONE
-hi vimCommentTitleLeader   ctermfg=250   ctermbg=233  cterm=NONE guifg=#bcbcbc guibg=#121212 gui=NONE
-hi vimCommentTitle         ctermfg=250   ctermbg=233  cterm=NONE guifg=#bcbcbc guibg=#121212 gui=NONE
-hi vimCommentString        ctermfg=245   ctermbg=233  cterm=NONE guifg=#8a8a8a guibg=#121212 gui=NONE
+hi Comment                 ctermfg=243   ctermbg=NONE cterm=NONE guifg=#767676 guibg=NONE    gui=NONE
+hi vimCommentTitleLeader   ctermfg=250   ctermbg=NONE cterm=NONE guifg=#bcbcbc guibg=NONE    gui=NONE
+hi vimCommentTitle         ctermfg=250   ctermbg=NONE cterm=NONE guifg=#bcbcbc guibg=NONE    gui=NONE
+hi vimCommentString        ctermfg=245   ctermbg=NONE cterm=NONE guifg=#8a8a8a guibg=NONE    gui=NONE
 
 hi TabLine                 ctermfg=231   ctermbg=238  cterm=NONE guifg=#ffffff guibg=#444444 gui=NONE
 hi TabLineSel              ctermfg=255   ctermbg=NONE cterm=bold guifg=#eeeeee guibg=NONE    gui=bold
